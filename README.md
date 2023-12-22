@@ -1,6 +1,5 @@
 # Resume-Builder
 
-# React Resume Maker
 [![Generic badge](https://img.shields.io/badge/WEBSITE-CLICK%20HERE-1abc9c.svg)](https://sandeep-shaw10.github.io/resume-cv-maker/home)
 [![Generic badge](https://img.shields.io/badge/STATUS-ACTIVE-GREEN.svg)](https://sandeep-shaw10.github.io/resume-cv-maker/home)
 [![Generic badge](https://img.shields.io/badge/VERSION-v1.0-ffff33.svg)](https://sandeep-shaw10.github.io/resume-cv-maker/home)
