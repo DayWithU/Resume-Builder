@@ -44,6 +44,8 @@
 
 > Uday Bhanu Singh\
 > Aspiring Frontend Developer\
-> Dehradun, India
+> Dehradun, India 
+based out in UK
 
 Thank You !
+
